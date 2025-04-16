@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1894-merge-strings-alternately) |
 ## String
