@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
