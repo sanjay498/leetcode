@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1894-merge-strings-alternately) |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
