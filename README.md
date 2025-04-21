@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
