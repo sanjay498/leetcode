@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
