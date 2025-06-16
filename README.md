@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
