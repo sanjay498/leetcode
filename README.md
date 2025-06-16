@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sanjay498/leetcode-solved-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
