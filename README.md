@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0415-add-strings) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
