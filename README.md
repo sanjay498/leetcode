@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
