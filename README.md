@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1146-greatest-common-divisor-of-strings) |
