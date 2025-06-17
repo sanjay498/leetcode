@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0027-remove-element) |
+| [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
