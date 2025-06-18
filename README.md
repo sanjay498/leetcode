@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sanjay498/leetcode-solved-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sanjay498/leetcode-solved-problems/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanjay498/leetcode-solved-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Dynamic Programming
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
