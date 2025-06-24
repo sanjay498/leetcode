@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0415-add-strings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
