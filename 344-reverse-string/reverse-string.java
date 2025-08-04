@@ -7,7 +7,7 @@ class Solution {
             s[r]=temp;
             l--;
             r++;
-        }System.out.print(s);
+        }
 
 
         
