@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sanjay498/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
